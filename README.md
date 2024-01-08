@@ -2,6 +2,12 @@
 <h3 align="center">A software engineering student from Brazil</h3>
 
 <h3 align="left">Connect with me:</h3>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=felipera11&show_icons=true&count_private=true&hide_border=true&title_color=ff4d00&icon_color=00008B&text_color=c9d1d9&bg_color=0d1117" alt="Felipe github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipera11&layout=compact&hide_border=true&title_color=ff4d00&count_private=true&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
 <p align="left">
 <a href="https://linkedin.com/in/felipesilveirabarbosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipesilveirabarbosa" height="30" width="40" /></a>
 </p>
